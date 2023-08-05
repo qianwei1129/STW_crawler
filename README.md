@@ -8,4 +8,4 @@
 
 3、爬取中华康网上的中药信息
 
-4、爬取https://www.vigiaccess.org/，WHO的药物不良反应的数据
+4、爬取WHO网站上的药物不良反应数据 https://www.vigiaccess.org/
